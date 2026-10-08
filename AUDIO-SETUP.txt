@@ -1,0 +1,8 @@
+Background music setup
+
+1. Add an MP3 file you own or are allowed to use to this folder.
+2. Name it: spider-verse-theme.mp3
+3. Open index.html and use the WEB RADIO control in the top bar.
+
+The control lets visitors play, pause, adjust volume, or mute the music.
+Browsers may block automatic audio playback, so the visitor starts it manually.
